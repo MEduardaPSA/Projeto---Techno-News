@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto+Mono:wght@100&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 17px;
+}
+
+.span-news {
+  font-weight: 700;
+  color: #004AAD;
+}
+
+.second-nav {
+  display: flex;
+  gap: 25px;
+  justify-content: space-between;
+}
+
+.second-menu {
+  text-decoration: none;
+  color: white;
+}
+
+.carro-voador-img {
+  width: 450px;
+  height: auto;
+}
+
+.elon-twitter-img {
+  width: 450px;
+  height: auto;
+}
+
+.paragraph-content {
+  text-align: justify;
+}
+
+.footer-paragraph {
+  font-weight: 500;
+  color: #004AAD;
+}
+
+.link-footer-back {
+  color: white;
+  text-decoration: none;
+}
+
+.link-footer-back:hover {
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
