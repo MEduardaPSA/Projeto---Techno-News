@@ -17,7 +17,7 @@ body {
 .second-nav {
   display: flex;
   gap: 25px;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .second-menu {
@@ -55,6 +55,36 @@ body {
 
 .btn-icones a {
   text-decoration: none;
+}
+
+#carouselExampleCaptions {
+  margin: auto;
+  width: 700px;
+  height: auto;
+}
+
+body {
+  /* background-image: url("../images/bg-image.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+}
+
+.span-news {
+  font-weight: 700;
+  color: #004AAD;
+}
+
+.header-color {
+  background-color: #004AAD;
+}
+
+.btn-back a {
+  text-decoration: none;
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
