@@ -57,12 +57,6 @@ body {
   text-decoration: none;
 }
 
-#carouselExampleCaptions {
-  margin: auto;
-  width: 700px;
-  height: auto;
-}
-
 body {
   /* background-image: url("../images/bg-image.jpg"); */
   background-repeat: no-repeat;
