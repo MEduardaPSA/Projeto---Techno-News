@@ -57,16 +57,6 @@ body {
   text-decoration: none;
 }
 
-body {
-  /* background-image: url("../images/bg-image.jpg"); */
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-h1 {
-  color: black;
-}
-
 .span-news {
   font-weight: 700;
   color: #004AAD;
@@ -77,6 +67,11 @@ h1 {
 }
 
 .btn-back a {
+  text-decoration: none;
+  color: white;
+}
+
+.btn-cadastro a {
   text-decoration: none;
   color: white;
 }

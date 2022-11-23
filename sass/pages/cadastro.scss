@@ -1,11 +1,5 @@
 body{
-    /* background-image: url("../images/bg-image.jpg"); */
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-h1{
-    color: black;
+    
 }
 .span-news{
     font-weight: 700;
@@ -15,6 +9,10 @@ h1{
     background-color: #004AAD;
 }
 .btn-back a {
+    text-decoration: none;
+    color: white;
+}
+.btn-cadastro a {
     text-decoration: none;
     color: white;
 }
