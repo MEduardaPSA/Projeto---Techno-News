@@ -76,4 +76,19 @@ body {
   color: white;
 }
 
+.cards-vagas {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+
+.card-animation {
+  transition: all 0.2s ease-in;
+}
+
+.card-animation:hover {
+  transform: scale3d(1.1, 1.1, 1.1);
+}
+
 /*# sourceMappingURL=style.css.map */
